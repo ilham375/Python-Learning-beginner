@@ -14,6 +14,7 @@ print(f"Tanggal lahir anda adalah : {tanggal_lahir}")
 
 hari_ini = dt.date.today()  # tanggal hari ini
 print(f"hari ini adalah tanggal : {hari_ini}")
+
 umur_hari = hari_ini - tanggal_lahir
 
 # merubah tipe data "umur_hari" dari date > days
