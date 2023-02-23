@@ -29,3 +29,5 @@ while True:
     print("whatupp")
 
 print("cukup finish")
+
+# sumber: kelas terbuka -> https://youtu.be/B6scLunzn0I

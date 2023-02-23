@@ -1,4 +1,5 @@
 # continue and pass
+# sumber: kelas terbuka -> https://youtu.be/hGvikdHVRME
 
 # pass -> dia berfungsi dummy, tidak akan di eksekusi
 

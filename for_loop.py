@@ -1,4 +1,5 @@
 # Perulangan (Loop)
+# sumber: kelas terbuka -> https://youtu.be/Z4qfMhx4XzQ
 
 # for kondisi:
 #   aksi

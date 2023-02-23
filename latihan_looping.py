@@ -1,4 +1,5 @@
 # latihan perulangan membuat segitiga
+# sumber: kelas terbuka -> https://youtu.be/szyfqq_whIg
 
 sisi = 10
 

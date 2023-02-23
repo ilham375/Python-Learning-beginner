@@ -13,3 +13,5 @@ while angka < 5:
     print("ganteng maksimallll")
 
 print("selesai")
+
+# sumber: kelas terbuka -> https://youtu.be/ZupffvoCChQ
