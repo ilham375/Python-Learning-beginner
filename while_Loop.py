@@ -2,7 +2,7 @@
 #     aksi ini
 #     aksi itu
 
-# while = ketika in indonesia
+# while = "ketika" in indonesia
 
 angka = 0
 print(f"angka sekarang -> {angka} \n")
